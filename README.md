@@ -14,3 +14,8 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-predict
 * **heart.csv**: Dataset original sin preprocesar.
 * **heart_clean.csv**: Dataset preprocesado en el transcurso de la práctica.
 
+## Licencia
+
+El contenido de este proyecto esta bajo la licencia [CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
