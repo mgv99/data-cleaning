@@ -10,4 +10,7 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-predict
 
 ## Ficheros del código fuente
 * **src/data_cleaning.ipynb**: Jupyter notebook donde se ha desarrollado todo el código de la práctica.
+* **memoria.pdf**: Memoria de la práctica 2.
+* **heart.csv**: Dataset original sin preprocesar.
+* **heart_clean.csv**: Dataset preprocesado en el transcurso de la práctica.
 
